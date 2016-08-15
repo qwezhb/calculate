@@ -1,0 +1,28 @@
+body,ol,ul,li,a,h1,h2,h3,img,span,b,i,strong{ margin: 0 auto; padding: 0 auto;}
+img{ vertical-align: top; margin: 0 auto;}
+li{ list-style: none;}
+a{ text-decoration: none; color: #000;}
+html{ /*font-size: 625%;*/}
+body{ max-width: 750px; background: #ffe63b; min-width: 320px; margin: 0 auto; font-size: 0.24rem;
+ font-family: "宋体"; width: 100%;}
+/*主要*/
+.top{ width: 100%; height: auto;}
+.top img{ width: 100%;}
+.middle{width: 100%;}
+.middle_ball{ width:5.11rem; height: 5.01rem;
+	 background:url(../img/images/03_05.png) no-repeat center; background-size: 100% auto; margin: 0 auto;
+	 margin-top: 0.98rem;    position: relative; z-index: 99;}
+.middle_bottom{ background:url(../img/images/06_03.png) no-repeat center; width: 5.11rem; height: 2.88rem;
+background-size: 100% auto;margin:-0.53rem auto; position: relative;}
+.middle_bottom_ck{ width: 1.04rem; height: 0.47rem; position: absolute; bottom:0.35rem;
+left: 1.24rem;}
+.middle_bottom_ck img{ width: 100%;}
+.middle_bottom_an{ width: 1.66rem; height: 1.68rem; position: absolute; bottom:0.48rem;
+right: 0.98rem;}
+.middle_bottom_an img{ width: 100%;}
+.middle_ball1{ width: 0.98rem; height: 0.98rem; position: absolute; bottom:0.48rem;
+right: 0.98rem;}
+.middle_ball1 img{ width: 100%;}
+.middle_ball2{width: 0.98rem; height: 0.98rem; position: absolute; bottom:0.48rem;
+left: 0.98rem;}
+.middle_ball2 img{ width: 100%;}
